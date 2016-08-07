@@ -1,0 +1,25 @@
+/* Empty. Add your own CSS if you like */
+.item .price {
+	position: absolute;
+	right: 15px;
+	top: 5px;
+
+	height: 42px;
+	width: 80px;
+
+	text-align: center;
+	padding: 6px;
+	line-height: 1.2em;
+
+	background: #666;
+	
+	font-weight: bold;
+	font-size: 13px;
+	color: #fff;
+}
+	.price.up {
+		background: #66cc33;
+	}
+	.price.down {
+		background: #efe43a;
+	}

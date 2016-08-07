@@ -1,0 +1,723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"res",
+				"restaurants"
+			],
+			[
+				"state",
+				"state	UI Router State"
+			],
+			[
+				"st",
+				"state	UI Router State"
+			],
+			[
+				"sta",
+				"$stateProvider〔argument〕"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"bgc",
+				"border-right-color"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"backgron",
+				"background-repeat"
+			],
+			[
+				"bl",
+				"border-left"
+			],
+			[
+				"n",
+				"no-repeat〔value〕"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"html",
+				"html5	html5 页面框架"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"radio",
+				"radio"
+			],
+			[
+				"智能",
+				"智能门禁"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ionic",
+				"ionicPopup"
+			],
+			[
+				"label",
+				"label-stacked	Stacked Labels"
+			],
+			[
+				"lab",
+				"label-inline	Inline Labels"
+			],
+			[
+				"button",
+				"buttonClicked"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"tabs",
+				"tabs-icon-top	Ionic Tabs Icon Top"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"card",
+				"card-header-footer	Ionic Card with Header+Footer"
+			],
+			[
+				"toggle",
+				"toggle-item	Ionic Toggle with Label"
+			],
+			[
+				"form-",
+				"form-input	Inline Labels"
+			],
+			[
+				"form-input",
+				"form-input	Stacked Labels"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"gre",
+				"jiuzhi-green"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"d",
+				"d7d7d7"
+			],
+			[
+				"ddd",
+				"d7d7d7"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"menjin",
+				"menjinCtrl"
+			],
+			[
+				"home",
+				"homeCtrl"
+			],
+			[
+				"get",
+				"getTodo"
+			],
+			[
+				"Todo",
+				"TodosService"
+			],
+			[
+				"Tod",
+				"TodosService"
+			],
+			[
+				"Todos",
+				"TodosService〔argument〕"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"urlRou",
+				"$urlRouterProvider〔argument〕"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"ab",
+				"absolute〔value〕"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"active",
+				"activeProject"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"pro",
+				"prompt〔function〕"
+			],
+			[
+				"project",
+				"projectTitle"
+			],
+			[
+				"proje",
+				"projects"
+			],
+			[
+				"Pro",
+				"Projects〔argument〕"
+			],
+			[
+				"acti",
+				"activeProject"
+			],
+			[
+				"sele",
+				"selectProject"
+			],
+			[
+				"proj",
+				"projects"
+			],
+			[
+				"new",
+				"newProject"
+			],
+			[
+				"last",
+				"lastActiveProject"
+			],
+			[
+				"projects",
+				"projects"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"stat",
+				"status〔variable〕"
+			],
+			[
+				"Sta",
+				"StatusBar"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"markdwon",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"theme",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 314.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"  import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin"
+	],
+	"file_history":
+	[
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/weather/weather.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/index.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/js/app.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/restaurants/restaurants.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/restaurants/restaurants.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/tour/tour.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/tour/tour.css",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/weather/weather.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/reservation/reservation.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/reservation/reservation.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/home/home.html",
+		"/Users/wyu/Documents/My_Working_Space/sample1/www/js/app.js",
+		"/Users/wyu/Documents/My_Working_Space/sample1/www/index.html",
+		"/Users/wyu/Desktop/从ios上面去除一些items，整理1st release的清单",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/js/app.js",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/templates/station-detail.html",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/templates/stations.html",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/templates/tabs.html",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/index.html",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/www/js/controllers.js",
+		"/Users/wyu/Desktop/btn-pressed.html",
+		"/Users/wyu/Documents/My_Working_Space/HappyPower/ionic.project",
+		"/Users/wyu/Downloads/◊ ‘¥/software/XMind Pro 7 v3.6.1 for Mac/Serial For XMind 7 Pro.txt",
+		"/Users/wyu/Downloads/server.config",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/Axure/Axure 使用 Icon Fonts.md",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/Axure/Axure 使用 Icon Fonts.mdown",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/about.html",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/hello.html",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/Tips/Mac录屏实践.md",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/超级食物 - Chia Seeds.md",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/Mac 录屏实践.mdown",
+		"/Users/wyu/Downloads/iOS9-fonts/iOS9字体变化.txt",
+		"/Users/wyu/Desktop/UIkit/read-me-first.txt",
+		"/Volumes/Soundflower-1.6.6/License.txt",
+		"/Users/wyu/Downloads/icomoon/Read Me.txt",
+		"/Users/wyu/Desktop/odysseusOTA/README.txt",
+		"/Users/wyu/Desktop/go-through-bootstrap.html",
+		"/Users/wyu/Desktop/UX/HBCMS Style Guide.mdown",
+		"/Users/wyu/Dropbox/UX需要钻研的细节点@Evernote.mdown",
+		"/Users/wyu/Dropbox/Inboard_Collections/Inboard/Inboard",
+		"/Users/wyu/Dropbox/Inboard_Collections/Inboard/Inboard.sqlite-shm",
+		"/Users/wyu/Dropbox/Inboard_Collections/Inboard/Inboard.sqlite",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/parking/parking-chewei-check.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_hudong.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/parking/parking-chewei-book.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong-join.html",
+		"/Users/wyu/Desktop/rem.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_form.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_type.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_home.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/home.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/index.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/js/app.js",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/js/controllers.js",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_list.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/inbox/inbox-detail.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_layout.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/inbox/inbox-list.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong-detail.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/jiuzhi.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong-list.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong-share.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/inbox/inbox-search-result.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong-add.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_popup.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_variables.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/hudong/hudong.html",
+		"/Users/wyu/Dropbox/Projects/九智/home_card.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/jiuzhi/_util.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/www/templates/menjin/menjin-menka-qrcode.html",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/radio.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/html5.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/avatar.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/range.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/thumbnail.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/card.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/card-header-footer.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/tabs-icon-only.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/tabs.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/tabs-icon-top.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/select.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/toggle.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/toggle-item.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/checkbox.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/form-inline-label.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/form-floating-label.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/form-stacked-label.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/text-input.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic/ion-view.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/text-input.sublime-snippet",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/php.sublime-snippet",
+		"/Users/wyu/Documents/Projects/Jiuzhi-Andrew/scss/ionic.app.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/ionic.app.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/css/ionic.app.css",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/_home.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/_type.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/index.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/home.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/jiuzhi.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/_variables.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/lib/ionic/scss/_variables.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/_form.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi/_layout.scss",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/css/style.css",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/scss/jiuzhi.scss",
+		"/Users/wyu/Desktop/steps-in-css.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/lib/ionic/scss/ionicons/_ionicons-font.scss",
+		"/Users/wyu/Dropbox/Sublime/User/Snippets/ion-view.sublime-snippet",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/css/home.css",
+		"/var/folders/vx/__kjvqqs1r74vr8z1g551tph0000gn/T/sublime-sftp-browse-1434447701/hbcms-0615/var/www/html/demo/hbcms0615/templets/default/style/style.css",
+		"/Users/wyu/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/hbcms-0615",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/about.md",
+		"/Users/wyu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wyu/Dropbox/应用/FarBox/wedy.farbox.com/make-iPad-second-monitor.md",
+		"/Users/wyu/Dropbox/make-ipad-second-monitor.html",
+		"/Users/wyu/Documents/My_Working_Space/HBCMS-0609/sftp-config.json",
+		"/Users/wyu/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/hbcms-0609",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/wuye-jiaofei-detail.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/wuye-jiaofei-all.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-yuancheng.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-visitor-add.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-menka-add.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-menka-qrcode.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/js/app.js",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/parking/parking.html",
+		"/Users/wyu/Dropbox/★★wedy-lib/css-lib/居中/文字垂直居中.html",
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin/menjin.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/wyu/Dropbox/Sublime/User/Snippets/ionic"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"南京",
+			"珠海",
+			"wedy",
+			"@media",
+			"add",
+			"col",
+			"height: 44px;",
+			"wuye.jiaofei.detail",
+			"wuye.detail",
+			"<li class=\"item\"",
+			"tab-item.active",
+			"tab-item",
+			"template",
+			"-",
+			"style",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wuye.jiaofei-detail",
+			"wuye.jiaofei.detail",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "sample-bitcoin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Jiuzhi/package.json"
+			],
+			[
+				"ionic.pro",
+				"Jiuzhi/ionic.project"
+			],
+			[
+				"th",
+				"~/Desktop/sublime test/this is a testing file"
+			],
+			[
+				"another",
+				"~/Desktop/sublime test/another testing file"
+			],
+			[
+				"this",
+				"~/Desktop/sublime test/this is a testing file"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/My_Working_Space/blankProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
