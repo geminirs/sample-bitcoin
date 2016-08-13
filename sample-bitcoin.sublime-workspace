@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"badge",
+				"span.badge"
+			],
+			[
+				"sta",
+				"state	UI Router State"
+			],
+			[
+				"state",
+				"state	UI Router State"
+			],
+			[
 				"inline",
 				"inline-block"
 			],
@@ -16,16 +28,8 @@
 				"restaurants"
 			],
 			[
-				"state",
-				"state	UI Router State"
-			],
-			[
 				"st",
 				"state	UI Router State"
-			],
-			[
-				"sta",
-				"$stateProvider〔argument〕"
 			],
 			[
 				"s",
@@ -315,6 +319,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "www/views/rates/rates.js",
+			"settings":
+			{
+				"buffer_size": 896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/views/rates/help-popover.html",
+			"settings":
+			{
+				"buffer_size": 494,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/views/rates/rates.html",
+			"settings":
+			{
+				"buffer_size": 1397,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -415,10 +451,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin"
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/css",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/js",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/currencies",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/detail",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/history",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/rates",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/tabs"
 	],
 	"file_history":
 	[
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/detail/detail.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/css/style.css",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/detail/detail.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/index.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/js/app.js",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/history/history.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/currencies/currencies.html",
+		"/Users/wyu/Documents/My_Working_Space/sample-bitcoin/www/views/tabs/tabs.html",
 		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/views/weather/weather.js",
 		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/index.html",
 		"/Users/wyu/Documents/My_Working_Space/sample-resort/www/js/app.js",
@@ -538,15 +591,7 @@
 		"/Users/wyu/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/hbcms-0609",
 		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/wuye-jiaofei-detail.html",
 		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/wuye-jiaofei-all.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-yuancheng.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-visitor-add.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-menka-add.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-menka-qrcode.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/js/app.js",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/parking/parking.html",
-		"/Users/wyu/Dropbox/★★wedy-lib/css-lib/居中/文字垂直居中.html",
-		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin/menjin.html"
+		"/Users/wyu/Documents/Projects/Jiuzhi-static/www/templates/menjin-yuancheng.html"
 	],
 	"find":
 	{
@@ -601,8 +646,139 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "www/views/rates/rates.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 64.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/views/rates/help-popover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/views/rates/rates.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2 (SL).tmTheme",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
